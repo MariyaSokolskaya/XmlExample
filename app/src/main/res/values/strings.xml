@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Addition</string>
+    <string name="augent">Augent</string>
+    <string name="addent">Addent</string>
+    <string name="plus">+</string>
+    <string name="add">Add</string>
+    <string name="res">Result</string>
+</resources>
